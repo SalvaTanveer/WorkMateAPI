@@ -22,7 +22,7 @@ A **Spring Boot REST API** for managing employees, supporting CRUD operations wi
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/WorkMate-API.git
+git https://github.com/SalvaTanveer/WorkMateAPI.git
 cd WorkMate-API
 ```
 
