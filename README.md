@@ -23,7 +23,7 @@ A **Spring Boot REST API** for managing employees, supporting CRUD operations wi
 
 ```bash
 git https://github.com/SalvaTanveer/WorkMateAPI.git
-cd WorkMate-API
+cd WorkMateAPI
 ```
 
 ### **2. Configure Database**
