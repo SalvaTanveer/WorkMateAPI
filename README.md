@@ -1,6 +1,6 @@
 # **WorkMate API**
 
-A **Spring Boot REST API** for managing employees, supporting CRUD operations with **Spring Data JPA and Hibernate**.
+A **Spring Boot REST API** for managing employees, supporting CRUD operations with **Spring Data JPA**.
 
 ## **Features**
 
